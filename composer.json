@@ -5,12 +5,6 @@
     "homepage": "http://simplehtmldom.sourceforge.net/",
     "type": "library",
     "license": "MIT",
-     "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/craigand/php-simple-html-dom-parser"
-        }
-    ],
     "authors": [
         {
             "name": "S.C. Chen",
